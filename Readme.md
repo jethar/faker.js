@@ -425,7 +425,7 @@ npm run readme
 ## Attribution
 
 To make the avatar images work, this package uses some of the generated images from https://generated.photos/
-Not to be used in commenricla product.
+Not to be used in commercial product or environment.
 
 
 ## Version Release Schedule
