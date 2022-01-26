@@ -422,6 +422,12 @@ The `ReadMe.md` file for `faker.js` is automatically generated and should not be
 npm run readme
 ```
 
+## Attribution
+
+To make the avatar images work, this package uses some of the generated images from https://generated.photos/
+Not to be used in commenricla product.
+
+
 ## Version Release Schedule
 
 faker.js is a popular project used by many organizations and individuals in production settings. Major and Minor version releases are generally on a monthly schedule. Bugs fixes are addressed by severity and fixed as soon as possible.
